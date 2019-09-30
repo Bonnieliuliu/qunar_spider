@@ -5,12 +5,6 @@ import pandas as pd
 from pyecharts import options as opts
 from pyecharts.charts import Bar
 
-"""
-获取详细教程、获取代码帮助、提出意见建议
-关注微信公众号「裸睡的猪」与猪哥联系
-
-@Author  :   猪哥
-"""
 
 # 去哪儿热门景点excel文件保存路径
 PLACE_EXCEL_PATH = 'qunar_place.xlsx'
